@@ -21,6 +21,7 @@ function App() {
   const dispatch = useDispatch();
   return (
     <div>
+      <h1>Made some changes</h1>
       <h1>{name}</h1>
       <input
         type="text"
